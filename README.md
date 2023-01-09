@@ -3,7 +3,7 @@
 This tool allows you to send predefined messages to given Instagram users. 
 It sends your message to the targets every 3 minutes.
 
-:information_source: You can use this tool to advertise your products to your potential customers.
+:information_source: You can use this tool to advertise your products to your potential customers. Just start the bot and lay down!
 
 
 :warning: **This tool DOES NOT log your password and DOES NOT request any kind of permission.** :warning:
