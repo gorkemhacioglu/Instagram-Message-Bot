@@ -1,4 +1,4 @@
-# Instagram-Message-Bot
+# Instagram-Message-Automation
 
 ### :question:	 Do you want to send messages to **a lot of accounts** without an effort?
 ### :question:		Do you want to **sell/promote your product** on Instagram?
